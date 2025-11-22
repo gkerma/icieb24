@@ -15,6 +15,43 @@ if st.button("Tirage simple (1 carte)"):
     afficher_carte(tirage[0], cards)
     st.markdown(interpretation_generale(tirage, cards))
 
+if st.button("Tirage Mission d’Âme"):
+    roles = ["Dons innés", "Défi d’incarnation", "Direction de l’âme"]
+    tirage = random.sample(range(1,25), 3)
+    st.subheader("Tirage : Mission d’Âme")
+    cols = st.columns(3)
+    for role, num, col in zip(roles, tirage, cols):
+        col.markdown(f"### {role}")
+        afficher_carte(num, cards, container=col)
+    st.markdown(interpretation_generative_poetique(tirage, cards))
+
+if st.button("Tirage Âme-Sœur"):
+    roles = ["Énergie personnelle", "Énergie de l'autre"]
+    tirage = random.sample(range(1,25), 2)
+    st.subheader("Tirage : Âme-Sœur")
+    cols = st.columns(2)
+    for role, num, col in zip(roles, tirage, cols):
+        col.markdown(f"### {role}")
+        afficher_carte(num, cards, container=col)
+    st.markdown(interpretation_generative_poetique(tirage, cards))
+
+if st.button("Tirage Chemin de Vie (7 cartes)"):
+    roles = [
+        "Racine", "Défi majeur", "Ressource",
+        "Leçon karmique", "Direction intérieure",
+        "Allié", "Accomplissement"
+    ]
+    tirage = random.sample(range(1,25), 7)
+    st.subheader("Tirage : Chemin de Vie")
+    cols = st.columns(3)
+
+    for role, num, i in zip(roles, tirage, range(7)):
+        col = cols[i % 3]
+        col.markdown(f"### {role}")
+        afficher_carte(num, cards, container=col)
+
+    st.markdown(interpretation_generative_poetique(tirage, cards))
+
 # Tirage 3 cartes
 if st.button("Tirage en 3 cartes"):
     tirage = random.sample(range(1, 25), 3)
