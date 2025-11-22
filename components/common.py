@@ -85,6 +85,33 @@ def interpretation_generale(tirage: list[int], cards: dict) -> str:
 
     return out
 
+def interpretation_generative_poetique(tirage, cards):
+    """
+    Génère un texte poétique basé sur l’énergie des cartes,
+    pour un rendu oracle littéraire et vivant.
+    """
+    lignes = []
+    for num in tirage:
+        c = cards[str(num)]
+        nom = c["nom"]
+        mots = c.get("mots_cles", [])
+        theme = ", ".join(mots[:3]) if mots else "mystère"
+
+        ligne = (
+            f"La carte **{nom}** murmure une énergie de *{theme}*. "
+            f"Elle t’invite à traverser cette période comme un voyage intérieur, "
+            "où chaque pas révèle une nuance subtile de ton être."
+        )
+        lignes.append(ligne)
+
+    # Synthèse finale
+    synthese = (
+        "En réunissant ces cartes, l’oracle t’indique une transformation qui "
+        "se déploie à la fois dans l’ombre et la lumière, invitant ton âme "
+        "à reconnaître ce qu’elle savait déjà, en silence."
+    )
+
+    return "### Oracle Poétique\n" + "\n\n".join(lignes) + "\n\n" + synthese
 
 def export_pdf_single_page(tirage: list[int], cards: dict) -> io.BytesIO:
     buffer = io.BytesIO()
