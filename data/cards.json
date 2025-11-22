@@ -9,7 +9,10 @@
       "La sagesse ancienne remonte à la surface.",
       "Reconnaître ce qui nourrit réellement ton chemin."
     ],
-    "interpretation": "La Source représente l’origine, l’essence pure et ce qui fonde ton identité profonde. Elle appelle à revenir à ce qui est vrai, simple et essentiel. Cette carte apparaît lorsque tu dois ré-ancrer ton énergie dans tes fondations, clarifier tes intentions et retrouver ta stabilité intérieure.",
+    "interpretation": "La Source représente l’origine, l’essence pure et ce qui fonde ton identité profonde. Elle appelle à revenir à ce qui est vrai, simple et essentiel. C’est une carte d'ancrage et de clarté intérieure.",
+    "ombre": "Rester attaché à ce qui a été, manquer d’élan.",
+    "lumiere": "Connexion pure à l’essence, discernement naturel.",
+    "archetype": "La Matrice",
     "image": "carte_01.png"
   },
 
@@ -21,9 +24,12 @@
     "texte": [
       "Une situation revient sous une nouvelle forme.",
       "Le changement est naturel, il n’est pas linéaire.",
-      "Accepter le mouvement permanent de la vie."
+      "Accepter le mouvement permanent."
     ],
-    "interpretation": "Cycles montre que tu traverses une phase où les événements semblent se répéter. C’est une invitation à observer ce qui se rejoue pour mieux agir. La carte rappelle que rien n'est figé : ce qui revient n’est pas une boucle fermée, mais une spirale d’évolution.",
+    "interpretation": "Cycles montre que tu entres dans une période où tout semble se répéter. Il ne s’agit pas d’une boucle mais d’une spirale : chaque retour t’enseigne quelque chose.",
+    "ombre": "Répéter sans apprendre.",
+    "lumiere": "Intégration des leçons et maturité.",
+    "archetype": "La Spirale",
     "image": "carte_02.png"
   },
 
@@ -33,11 +39,14 @@
     "symboles": "Jaillissement, porte, révélation",
     "mots_cles": ["Révélation", "Intuition", "Synchronicité", "Ouverture"],
     "texte": [
-      "Quelque chose d’inattendu se manifeste.",
-      "Une porte s’ouvre lorsque tu t’y attends le moins.",
-      "La spontanéité est une alliée."
+      "Un élément inattendu change la lecture.",
+      "L’intuition frappe soudainement.",
+      "Une porte s’ouvre dans l’imprévu."
     ],
-    "interpretation": "Une révélation se prépare. Cette carte annonce un événement soudain, un message, une synchronicité, ou une intuition fulgurante. Elle t’encourage à rester réceptif et ouvert : ce qui apparaît maintenant pourrait transformer ta perception.",
+    "interpretation": "Un événement soudain, une révélation ou un message arrive. Cette carte annonce un pivot inattendu qui enrichit ou redirige ton chemin.",
+    "ombre": "Instabilité, impulsivité.",
+    "lumiere": "Révélation lumineuse, intuition claire.",
+    "archetype": "Le Messager",
     "image": "carte_03.png"
   },
 
@@ -47,11 +56,14 @@
     "symboles": "Origami, création, invention",
     "mots_cles": ["Création", "Ingéniosité", "Manifestation", "Construction"],
     "texte": [
-      "Ton potentiel prend forme.",
-      "Une idée se cristallise dans le réel.",
-      "Tu accomplis ce que tu oses imaginer."
+      "Une idée prend forme concrète.",
+      "La construction devient possible.",
+      "L’inspiration se matérialise."
     ],
-    "interpretation": "Réalisation annonce une construction concrète. Ce que tu imaginais commence à se manifester. Tu entres dans une période de création active, où ta vision intérieure se transforme en matière. C’est le moment de structurer, de finaliser, d’aboutir.",
+    "interpretation": "Cette carte marque la manifestation concrète. Tu entres dans une période où les projets se structurent et s’achèvent.",
+    "ombre": "Perfectionnisme, rigidité.",
+    "lumiere": "Manifestation fluide, créativité incarnée.",
+    "archetype": "L’Artisan",
     "image": "carte_04.png"
   },
 
@@ -59,13 +71,16 @@
     "id": 5,
     "nom": "Battement",
     "symboles": "Cœur, rythme, vibration",
-    "mots_cles": ["Émotion", "Sensibilité", "Écoute intérieure", "Résonance"],
+    "mots_cles": ["Émotion", "Sensibilité", "Empathie", "Résonance"],
     "texte": [
-      "Ton cœur donne le tempo.",
-      "Une émotion importante cherche à être entendue.",
-      "Ralentir pour sentir ce qui vibre vraiment."
+      "Une émotion demande à être entendue.",
+      "Le cœur indique le rythme.",
+      "La vibration est un message en soi."
     ],
-    "interpretation": "Battement t'invite à écouter ton cœur. Une émotion profonde demande à être reconnue. Cette carte souligne la nécessité de l’authenticité émotionnelle, de la douceur envers soi-même et d’un rythme plus aligné avec tes besoins.",
+    "interpretation": "Battement indique qu'une émotion importante émerge. La clé est d’écouter ton ressenti plutôt que ton mental.",
+    "ombre": "Hypersensibilité, vulnérabilité non maîtrisée.",
+    "lumiere": "Intelligence émotionnelle, résonance intérieure.",
+    "archetype": "Le Cœur",
     "image": "carte_05.png"
   },
 
@@ -73,13 +88,16 @@
     "id": 6,
     "nom": "Souffle",
     "symboles": "Papillon, air, respiration",
-    "mots_cles": ["Respirer", "Légèreté", "Libération", "Échange"],
+    "mots_cles": ["Respirer", "Échange", "Communication", "Légèreté"],
     "texte": [
-      "Une inspiration profonde apporte clarté.",
-      "Un message ou une parole circule.",
-      "La légèreté ouvre une voie inattendue."
+      "Un souffle nouveau traverse la situation.",
+      "La parole circule librement.",
+      "L’allègement crée l’ouverture."
     ],
-    "interpretation": "Souffle symbolise la circulation : de l'air, des idées, des mots. Elle indique un moment pour alléger, clarifier, exprimer, ou accueillir. Une communication sincère pourrait être déterminante. Un changement subtil peut libérer quelque chose de plus grand.",
+    "interpretation": "Souffle parle d’air, d'idées qui circulent, de communication fluide. C’est une carte de libération intérieure et de clarté.",
+    "ombre": "Superficialité, dispersion.",
+    "lumiere": "Inspiration, message juste.",
+    "archetype": "Le Vent",
     "image": "carte_06.png"
   },
 
@@ -87,13 +105,16 @@
     "id": 7,
     "nom": "Passé",
     "symboles": "Ruines, mémoire, traces",
-    "mots_cles": ["Mémoire", "Blessure ancienne", "Histoire", "Ancêtres"],
+    "mots_cles": ["Mémoire", "Héritage", "Guérison", "Libération"],
     "texte": [
-      "Une mémoire refait surface.",
-      "Ce qui a été cherche à être compris.",
-      "Reconnaître les empreintes du passé."
+      "Une mémoire ancienne refait surface.",
+      "Le passé cherche à être compris.",
+      "Une leçon oubliée revient en écho."
     ],
-    "interpretation": "Passé révèle qu’un héritage émotionnel ou familial influence ta situation actuelle. Il ne s’agit pas de revenir en arrière, mais de mettre en lumière ce qui demeure actif ou non résolu. Cette carte est un appel à la guérison, à la compréhension, à l’intégration.",
+    "interpretation": "Passé évoque une influence ancienne, émotionnelle ou familiale. C’est une invitation à l’intégration et au pardon.",
+    "ombre": "Attachement, nostalgie lourde.",
+    "lumiere": "Sagesse ancestrale, réconciliation.",
+    "archetype": "L’Ancêtre",
     "image": "carte_07.png"
   },
 
@@ -101,13 +122,16 @@
     "id": 8,
     "nom": "Maintenant",
     "symboles": "Joker, soleil, présence",
-    "mots_cles": ["Présence", "Décision immédiate", "Action directe", "Clarté"],
+    "mots_cles": ["Présence", "Action", "Décision", "Clarté"],
     "texte": [
-      "Ce qui compte se joue maintenant.",
-      "La clarté se trouve dans l’instant.",
-      "Agir présentement simplifie la route."
+      "L’instant contient la réponse.",
+      "Agir maintenant a du poids.",
+      "Le présent éclaire tout."
     ],
-    "interpretation": "Cette carte est un appel puissant à la présence. Elle t'invite à sortir des anticipations et des regrets. Maintenant dit : « Ce moment est ton terrain d’action ». Il y a une opportunité ici et maintenant.",
+    "interpretation": "Maintenant est une carte de présence. Elle dit : “Ce moment est décisif”. L’action immédiate est favorisée.",
+    "ombre": "Impulsivité, précipitation.",
+    "lumiere": "Présence totale, action juste.",
+    "archetype": "Le Soleil",
     "image": "carte_08.png"
   },
 
@@ -117,11 +141,14 @@
     "symboles": "Fleur, couleurs, beauté",
     "mots_cles": ["Charme", "Attraction", "Joie", "Sensualité"],
     "texte": [
-      "L’énergie attire ce qui lui ressemble.",
-      "La beauté ouvre les portes du cœur.",
-      "Un lien peut naître d’une étincelle."
+      "Le charme opère naturellement.",
+      "L’attraction révèle une vérité subtile.",
+      "La beauté touche le cœur."
     ],
-    "interpretation": "Séduction révèle une attraction, une dynamique magnétique ou un émerveillement. Cette carte parle autant du charme d’une situation que de ta propre lumière. Elle invite à savourer ce qui attire, sans se perdre dans l’illusion.",
+    "interpretation": "Séduction indique une dynamique d’attirance, de magie, de plaisir. C’est une énergie lumineuse, mais qui appelle à la conscience.",
+    "ombre": "Illusion, mirage affectif.",
+    "lumiere": "Rayonnement naturel, rencontre juste.",
+    "archetype": "La Muse",
     "image": "carte_09.png"
   },
 
@@ -129,27 +156,33 @@
     "id": 10,
     "nom": "Espoirs",
     "symboles": "Spirale, vibration, futur",
-    "mots_cles": ["Futur", "Confiance", "Projection", "Possibilités"],
+    "mots_cles": ["Futur", "Confiance", "Vision", "Intuition"],
     "texte": [
-      "Une perspective lumineuse se dessine.",
-      "Ta confiance ouvre des portes invisibles.",
-      "L’avenir répond à ce que tu fais vibrer."
+      "Un futur positif s’esquisse.",
+      "L’optimisme ouvre les portes.",
+      "La vision intérieure se clarifie."
     ],
-    "interpretation": "Espoirs annonce une projection positive. Elle montre que tu portes un futur en gestation, un désir vibrant. Cette carte t’encourage à nourrir cette vision et à croire en ta capacité à la réaliser.",
+    "interpretation": "Espoirs ancre une projection constructive. Tes intentions façonnent déjà ton avenir.",
+    "ombre": "Attente passive.",
+    "lumiere": "Vision éclairée, expansion.",
+    "archetype": "Le Visionnaire",
     "image": "carte_10.png"
   },
 
   "11": {
     "id": 11,
     "nom": "Oubli",
-    "symboles": "Nuage, dissolution, eau",
-    "mots_cles": ["Lâcher-prise", "Disparition", "Brouillard", "Fin d’un cycle"],
+    "symboles": "Nuage, eau, dissolution",
+    "mots_cles": ["Lâcher prise", "Fin", "Nettoyage", "Transition"],
     "texte": [
-      "Quelque chose s’efface doucement.",
-      "Une confusion laisse place à une dissolution.",
-      "Le vide prépare un renouveau."
+      "Une forme se dissout naturellement.",
+      "Le flou prépare un renouveau.",
+      "Le vide nettoie l’ancien."
     ],
-    "interpretation": "Oubli marque un effacement nécessaire. Une situation, une croyance ou une émotion se dissout. Cela peut sembler flou ou déroutant, mais le vide créé ouvre un espace fertile pour la suite.",
+    "interpretation": "Oubli annonce la fin douce d'un attachement, d’une croyance ou d’un cycle. Le flou est une matrice de renaissance.",
+    "ombre": "Perte de repères.",
+    "lumiere": "Purification profonde.",
+    "archetype": "Le Voile",
     "image": "carte_11.png"
   },
 
@@ -157,27 +190,33 @@
     "id": 12,
     "nom": "Secret",
     "symboles": "Moine, intériorité, silence",
-    "mots_cles": ["Mystère", "Intériorité", "Réserve", "Protection"],
+    "mots_cles": ["Mystère", "Intuition", "Intimité", "Protection"],
     "texte": [
-      "Tout n’a pas besoin d’être dit.",
-      "Une sagesse silencieuse guide le moment.",
-      "Il existe un espace intérieur préservé."
+      "Un élément reste caché.",
+      "Le silence porte un sens.",
+      "Tout n’a pas à être révélé."
     ],
-    "interpretation": "Secret t'invite à cultiver la discrétion et l’intimité. Un élément important n’est pas encore mûr pour être révélé. Garde pour toi ce qui germe : la maturation intérieure est essentielle.",
+    "interpretation": "Secret indique qu’une information est encore en maturation. Le silence est protecteur et fertile.",
+    "ombre": "Fuite, rétention excessive.",
+    "lumiere": "Intériorité, sagesse discrète.",
+    "archetype": "Le Moine",
     "image": "carte_12.png"
   },
 
   "13": {
     "id": 13,
     "nom": "Enfant",
-    "symboles": "Visage jeune, pureté",
-    "mots_cles": ["Renouveau", "Spontanéité", "Joie", "Curiosité"],
+    "symboles": "Visage jeune, spontanéité",
+    "mots_cles": ["Renouveau", "Curiosité", "Légèreté", "Innocence"],
     "texte": [
-      "Une énergie nouvelle apparaît.",
-      "L’innocence ouvre des chemins inattendus.",
-      "La spontanéité est un guide précieux."
+      "Un nouvel élan apparaît.",
+      "La joie simple ouvre la route.",
+      "La spontanéité est guide."
     ],
-    "interpretation": "Enfant symbolise le renouveau, la fraîcheur, l’élan simple. Elle t’invite à redevenir joueur, curieux, ouvert. Une nouvelle phase commence, légère et vivante.",
+    "interpretation": "Enfant représente le renouveau et la fraîcheur. Elle annonce une période légère et vivante.",
+    "ombre": "Naïveté, dispersion.",
+    "lumiere": "Innocence, renouveau vrai.",
+    "archetype": "Le Nouveau",
     "image": "carte_13.png"
   },
 
@@ -185,27 +224,33 @@
     "id": 14,
     "nom": "Mère",
     "symboles": "Oiseau, remède, soin",
-    "mots_cles": ["Protection", "Soin", "Nourrissement", "Bienveillance"],
+    "mots_cles": ["Soin", "Protection", "Guérison", "Cocon"],
     "texte": [
-      "Une présence douce enveloppe ton chemin.",
-      "Tu es soutenu plus que tu ne le crois.",
-      "La guérison se tisse lentement."
+      "Une énergie douce t’enveloppe.",
+      "La guérison progresse lentement.",
+      "Tu es accompagné."
     ],
-    "interpretation": "Mère représente la douceur, le soin, la protection active. Cette carte parle d’un soutien réel, d’une guérison en cours ou d’un besoin de prendre soin de soi. Elle apporte sécurité et tendresse.",
+    "interpretation": "Mère indique une protection douce, une guérison profonde, un soutien invisible mais réel.",
+    "ombre": "Surprotection, contrôle affectif.",
+    "lumiere": "Soin, compassion réelle.",
+    "archetype": "La Gardienne",
     "image": "carte_14.png"
   },
 
   "15": {
     "id": 15,
     "nom": "Père",
-    "symboles": "Force, ancrage, structure",
-    "mots_cles": ["Responsabilité", "Stabilité", "Cadre", "Force"],
+    "symboles": "Force, structure, ancrage",
+    "mots_cles": ["Responsabilité", "Cadre", "Stabilité", "Volonté"],
     "texte": [
-      "Construire quelque chose de solide.",
-      "Poser des limites claires.",
-      "Canaliser ton énergie dans une direction."
+      "La structure devient essentielle.",
+      "Une limite doit être posée.",
+      "L’ancrage apporte la clarté."
     ],
-    "interpretation": "Père représente la structure, l’autorité intérieure et la force ancrée. Cette carte parle de stabilité, de discipline, d’un cadre à créer ou restaurer. Elle te rappelle ta capacité à tenir debout et à guider.",
+    "interpretation": "Père apporte la notion de cadre, de responsabilité, d’autorité intérieure. Une base solide est nécessaire.",
+    "ombre": "Rigidité, dureté.",
+    "lumiere": "Stabilité, force constructive.",
+    "archetype": "Le Pilier",
     "image": "carte_15.png"
   },
 
@@ -213,111 +258,135 @@
     "id": 16,
     "nom": "Avatar",
     "symboles": "Masque, rôle, identité",
-    "mots_cles": ["Identité", "Masque", "Personna", "Réinvention"],
+    "mots_cles": ["Identité", "Transformation", "Rôle", "Authenticité"],
     "texte": [
-      "Tu joues un rôle : lequel est authentique ?",
-      "Une façade se fissure ou se révèle.",
-      "Il est temps d’un ajustement identitaire."
+      "Une façade évolue.",
+      "Ton rôle demande un ajustement.",
+      "Une vérité intérieure cherche à s’exprimer."
     ],
-    "interpretation": "Avatar aborde la question de l’identité et du rôle que tu joues dans le monde. Une part de toi n’est plus alignée avec l’image que tu projettes. C’est le moment d’ajuster ou de redéfinir ton masque social.",
+    "interpretation": "Avatar est la carte du masque, de l’image que tu projettes. C’est un moment pour réaligner identité et vérité.",
+    "ombre": "Masque rigide, faux-self.",
+    "lumiere": "Métamorphose, authenticité.",
+    "archetype": "Le Caméléon",
     "image": "carte_16.png"
   },
 
   "17": {
     "id": 17,
     "nom": "Dieu",
-    "symboles": "Symbole triple, absolu, source créatrice",
-    "mots_cles": ["Foi", "Création", "Absolu", "Intuition supérieure"],
+    "symboles": "Symbole triple, création, absolu",
+    "mots_cles": ["Foi", "Création", "Guidance", "Sacré"],
     "texte": [
-      "Une force plus vaste t’accompagne.",
-      "Un sens profond se révèle dans la situation.",
-      "La synchronicité te montre la voie."
+      "Une aide subtile t’accompagne.",
+      "Le sens se révèle au-delà du visible.",
+      "La synchronicité est active."
     ],
-    "interpretation": "Dieu symbolise la guidance, l’inspiration, la foi et l’intelligence subtile du vivant. Elle invite à te relier à quelque chose de plus grand que toi, à suivre ton intuition profonde et à faire confiance aux signes.",
+    "interpretation": "Dieu symbolise la guidance spirituelle et l’intelligence supérieure. Fais confiance au fil invisible.",
+    "ombre": "Dogme, illusions ‘spirituelles’.",
+    "lumiere": "Foi profonde, guidance claire.",
+    "archetype": "Le Créateur",
     "image": "carte_17.png"
   },
 
   "18": {
     "id": 18,
     "nom": "Labyrinthe",
-    "symboles": "Spirale, pointe, chemins multiples",
-    "mots_cles": ["Choix", "Quête", "Doute", "Complexité"],
+    "symboles": "Spirale, pointe, choix",
+    "mots_cles": ["Choix", "Quête", "Complexité", "Guérison"],
     "texte": [
-      "Le chemin n’est pas linéaire.",
-      "Chaque détour révèle une vérité.",
-      "Ton intuition connaît la sortie."
+      "Le chemin serpente mais enseigne.",
+      "Chaque détour porte un sens.",
+      "Tu portes déjà la clé."
     ],
-    "interpretation": "Labyrinthe représente une situation complexe, un choix difficile ou un parcours initiatique. La confusion n’est pas une impasse : elle indique un moment important de discernement et de croissance intérieure.",
+    "interpretation": "Labyrinthe représente une quête intérieure. Le doute n’est pas un échec : c’est un passage initiatique.",
+    "ombre": "Égarement, confusion prolongée.",
+    "lumiere": "Quête intérieure, révélation.",
+    "archetype": "Le Chercheur",
     "image": "carte_18.png"
   },
 
   "19": {
     "id": 19,
     "nom": "Ève",
-    "symboles": "Féminin, sève, compassion",
-    "mots_cles": ["Réceptivité", "Création", "Douceur", "Intériorité"],
+    "symboles": "Féminin, sève, douceur",
+    "mots_cles": ["Réceptivité", "Création", "Intuition", "Douceur"],
     "texte": [
-      "Une énergie douce guide tes pas.",
-      "La sensibilité nourrit ta vision.",
-      "La création passe par l’écoute intérieure."
+      "La sensibilité devient force.",
+      "La douceur ouvre une voie.",
+      "Un élan créateur germe."
     ],
-    "interpretation": "Ève symbolise le féminin créateur, la douceur, la sensibilité intuitive. Elle t’encourage à accueillir, à ressentir, à laisser mûrir. C’est une carte de confiance et de gestation.",
+    "interpretation": "Ève représente le féminin créateur, la sensibilité profonde. Elle invite à accueillir, ressentir, maturer.",
+    "ombre": "Attachement, hypersensibilité.",
+    "lumiere": "Création intuitive, douceur consciente.",
+    "archetype": "La Source Féminine",
     "image": "carte_19.png"
   },
 
   "20": {
     "id": 20,
     "nom": "Adam",
-    "symboles": "Masculin, voyage, action directe",
-    "mots_cles": ["Mouvement", "Exploration", "Décision", "Volonté"],
+    "symboles": "Masculin, voyage, action",
+    "mots_cles": ["Mouvement", "Volonté", "Décision", "Action"],
     "texte": [
-      "Un mouvement s’impose naturellement.",
-      "Une décision ouvre un nouveau terrain.",
-      "Avancer devient nécessaire."
+      "Un mouvement est nécessaire.",
+      "La décision trace la route.",
+      "L’élan est disponible."
     ],
-    "interpretation": "Adam symbolise l’énergie active, la volonté et le passage à l’action. Cette carte indique qu’un choix clair ou un élan affirmé est requis. Elle encourage la détermination.",
+    "interpretation": "Adam symbolise l’action déterminée, l’élan volontaire, la prise de décision claire.",
+    "ombre": "Impulsivité, action brute.",
+    "lumiere": "Action juste, volonté alignée.",
+    "archetype": "La Source Masculine",
     "image": "carte_20.png"
   },
 
   "21": {
     "id": 21,
     "nom": "Automne",
-    "symboles": "Arbre, fruits, moisson",
-    "mots_cles": ["Transition", "Bilan", "Récolte", "Sagesse"],
+    "symboles": "Arbre, fruits, bilan",
+    "mots_cles": ["Bilan", "Transition", "Récolte", "Sagesse"],
     "texte": [
-      "C’est le temps du bilan et de la récolte.",
-      "Les fruits de tes efforts se révèlent.",
-      "Lâcher ce qui n’a plus de saison."
+      "C’est l’heure du discernement.",
+      "Les fruits mûrs révèlent la vérité.",
+      "Le tri devient libérateur."
     ],
-    "interpretation": "Automne signale un moment de transition calme mais profond. C’est l’heure du bilan, du tri, de la compréhension. Ce qui n’a plus d’utilité peut être lâché pour faire place au renouveau.",
+    "interpretation": "Automne marque le bilan et la récolte. C’est un temps pour comprendre ce qui reste et ce qui s’en va.",
+    "ombre": "Mélancolie stagnante.",
+    "lumiere": "Récolte, maturité.",
+    "archetype": "Le Semeur",
     "image": "carte_21.png"
   },
 
   "22": {
     "id": 22,
     "nom": "Hiver",
-    "symboles": "Neige, froid, silence",
-    "mots_cles": ["Pause", "Repli", "Purification", "Protection"],
+    "symboles": "Neige, froid, purification",
+    "mots_cles": ["Pause", "Repli", "Nettoyage", "Protection"],
     "texte": [
-      "Le silence protège un processus intérieur.",
-      "Le monde semble calme mais tout mûrit en profondeur.",
-      "La patience est une force."
+      "Le silence porte une sagesse.",
+      "Le retrait prépare une renaissance.",
+      "La patience devient ressource."
     ],
-    "interpretation": "Hiver est une carte de repos, de ralentissement, de protection. Même si tout semble immobile, de grands ajustements intérieurs se préparent. Cette carte valorise la patience et la sobriété.",
+    "interpretation": "Hiver annonce un moment d’introspection profonde. Rien ne bouge en surface mais tout mûrit.",
+    "ombre": "Blocage, immobilité excessive.",
+    "lumiere": "Purification, repos sacré.",
+    "archetype": "Le Gardien du Froid",
     "image": "carte_22.png"
   },
 
   "23": {
     "id": 23,
     "nom": "Printemps",
-    "symboles": "Spirale verte, bourgeons, élan",
-    "mots_cles": ["Début", "Croissance", "Ouverture", "Expansion"],
+    "symboles": "Spirale verte, bourgeon",
+    "mots_cles": ["Croissance", "Renaissance", "Élan", "Ouverture"],
     "texte": [
-      "Une nouvelle période commence.",
-      "Les idées germent et se renforcent.",
-      "L’élan renoue avec la vie."
+      "Le renouveau éclot doucement.",
+      "Les idées reprennent vie.",
+      "Une énergie jeune s’éveille."
     ],
-    "interpretation": "Printemps annonce un élan nouveau, une ouverture rafraîchissante. Les initiatives deviennent fertiles et les projets reprennent force. Elle marque un redémarrage clair et limpide.",
+    "interpretation": "Printemps est la carte du renouveau, de l’élan nouveau, des projets qui germent dans la lumière.",
+    "ombre": "Précipitation.",
+    "lumiere": "Croissance authentique.",
+    "archetype": "Le Bourgeon",
     "image": "carte_23.png"
   },
 
@@ -325,13 +394,16 @@
     "id": 24,
     "nom": "Été",
     "symboles": "Foudre, chaleur, puissance",
-    "mots_cles": ["Puissance", "Mouvement", "Intensité", "Action"],
+    "mots_cles": ["Puissance", "Intensité", "Rayonnement", "Action"],
     "texte": [
-      "L’énergie est à son apogée.",
-      "Une impulsion forte te traverse.",
-      "La lumière révèle tout."
+      "L’énergie atteint son apogée.",
+      "La lumière révèle tout.",
+      "La force devient direction."
     ],
-    "interpretation": "Été représente la puissance, l’intensité et la pleine expression de soi. Elle t’invite à rayonner sans retenue, à utiliser ton énergie maximale et à affirmer ton mouvement.",
+    "interpretation": "Été symbolise la pleine puissance, l’épanouissement total, la manifestation vibrante.",
+    "ombre": "Excès, brûlure, surcharge.",
+    "lumiere": "Rayonnement, puissance créatrice.",
+    "archetype": "Le Soleil Ardant",
     "image": "carte_24.png"
   }
 }
