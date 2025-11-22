@@ -1,0 +1,72 @@
+/* Arcana FX+ Clair-Or – Optimisé mobile */
+
+body {
+    background: radial-gradient(circle at 20% 0%, #fff8ea 0, #f8f2e9 40%, #f0e1c7 100%);
+    color: #3a2c1d;
+    overflow-x: hidden;
+}
+
+h1, h2, h3 {
+    text-shadow: 0 0 8px rgba(212, 175, 55, 0.4);
+}
+
+h1 {
+    animation: arcanaGlow 6s ease-in-out infinite;
+}
+
+@keyframes arcanaGlow {
+    0% { text-shadow: 0 0 4px rgba(212,175,55,0.4); }
+    50% { text-shadow: 0 0 16px rgba(212,175,55,0.8); }
+    100% { text-shadow: 0 0 4px rgba(212,175,55,0.4); }
+}
+
+img {
+    border-radius: 14px;
+    box-shadow: 0 0 10px rgba(212, 175, 55, 0.35);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+
+img:hover {
+    transform: translateY(-4px) scale(1.03);
+    box-shadow: 0 0 22px rgba(212, 175, 55, 0.85);
+}
+
+button, .stButton button {
+    border-radius: 999px;
+    border: 1px solid rgba(212,175,55,0.7);
+    box-shadow: 0 0 6px rgba(212,175,55,0.35);
+}
+
+.block-container {
+    padding-top: 1.5rem;
+}
+
+[data-baseweb="popover"], [data-baseweb="modal"] {
+    border-radius: 18px !important;
+    border: 1px solid rgba(212,175,55,0.6) !important;
+    box-shadow: 0 0 22px rgba(212,175,55,0.6) !important;
+}
+
+.mystic-particles {
+    position: fixed;
+    pointer-events: none;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    z-index: 0;
+    opacity: 0.75;
+}
+
+.particle {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    background: radial-gradient(circle, #ffefc2 0, #d4af37 60%);
+    border-radius: 50%;
+    animation: floatSoft 12s linear infinite;
+}
+
+@keyframes floatSoft {
+    0% { transform: translateY(100vh) scale(0.3); opacity: 0; }
+    20% { opacity: 0.9; }
+    100% { transform: translateY(-10vh) scale(1); opacity: 0; }
+}

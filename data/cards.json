@@ -1,0 +1,290 @@
+{
+  "1": {
+    "id": 1,
+    "nom": "Carte 1",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_01.png"
+  },
+  "2": {
+    "id": 2,
+    "nom": "Carte 2",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_02.png"
+  },
+  "3": {
+    "id": 3,
+    "nom": "Carte 3",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_03.png"
+  },
+  "4": {
+    "id": 4,
+    "nom": "Carte 4",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_04.png"
+  },
+  "5": {
+    "id": 5,
+    "nom": "Carte 5",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_05.png"
+  },
+  "6": {
+    "id": 6,
+    "nom": "Carte 6",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_06.png"
+  },
+  "7": {
+    "id": 7,
+    "nom": "Carte 7",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_07.png"
+  },
+  "8": {
+    "id": 8,
+    "nom": "Carte 8",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_08.png"
+  },
+  "9": {
+    "id": 9,
+    "nom": "Carte 9",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_09.png"
+  },
+  "10": {
+    "id": 10,
+    "nom": "Carte 10",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_10.png"
+  },
+  "11": {
+    "id": 11,
+    "nom": "Carte 11",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_11.png"
+  },
+  "12": {
+    "id": 12,
+    "nom": "Carte 12",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_12.png"
+  },
+  "13": {
+    "id": 13,
+    "nom": "Carte 13",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_13.png"
+  },
+  "14": {
+    "id": 14,
+    "nom": "Carte 14",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_14.png"
+  },
+  "15": {
+    "id": 15,
+    "nom": "Carte 15",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_15.png"
+  },
+  "16": {
+    "id": 16,
+    "nom": "Carte 16",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_16.png"
+  },
+  "17": {
+    "id": 17,
+    "nom": "Carte 17",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_17.png"
+  },
+  "18": {
+    "id": 18,
+    "nom": "Carte 18",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_18.png"
+  },
+  "19": {
+    "id": 19,
+    "nom": "Carte 19",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_19.png"
+  },
+  "20": {
+    "id": 20,
+    "nom": "Carte 20",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_20.png"
+  },
+  "21": {
+    "id": 21,
+    "nom": "Carte 21",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_21.png"
+  },
+  "22": {
+    "id": 22,
+    "nom": "Carte 22",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_22.png"
+  },
+  "23": {
+    "id": 23,
+    "nom": "Carte 23",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_23.png"
+  },
+  "24": {
+    "id": 24,
+    "nom": "Carte 24",
+    "symboles": "",
+    "texte": [
+      "",
+      "",
+      ""
+    ],
+    "interpretation": "",
+    "image": "carte_24.png"
+  }
+}
